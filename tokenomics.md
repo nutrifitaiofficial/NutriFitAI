@@ -1,4 +1,4 @@
-#TOKENOMICS
+# TOKENOMICS
 
 The NutrifitAI project tokennomics plays an important role in the overall ecosystem of the platform. The platform's native token, let's call it the NFAI, serves as the platform's utility token and is used for a variety of purposes, such as:
 
